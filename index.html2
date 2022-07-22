@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Gurpreet Singh</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+
+  </head>
+
+
+
+     <div class="a">
+       <body>    <img class="top-cloud" src="images/cloud.png" alt="cloud">
+          <h1 class="h1">I'm Gurpreet Singh</h1>
+           <h2 class="h2">A <span>Web</span> Developer.</h2>
+     <img class="bottom-cloud"class="b"src="images/cloud.png" alt="cloud">
+      <img class="mountain"src="images/mountain.png" alt="mountain.png">
+      </div>
+
+
+
+<div class="middle-container">
+<img class="photo"src="images/profile photo.jpg" alt="">
+    <h2 style="margin-top:0px;margin-bottom:5px;margin-left:35px;">Hello.</h2>
+  </div>
+         <p class="p1">I'm Gurpreet Singh, currently pursuing B-tech with EEE. I❤️cold-coffee and cheese-maggi😋.   </p>
+
+          <hr>
+         <div class="skills">
+          <h2 class="h2a">My Skills.</h2>
+          <img class="bphoto" src="images/skills.png" alt="">
+          <div class="h3p3">
+          <h3 class="h3">Design & Development</h3>
+           <p class="p3">I start learning to code when I was in 6th semester.I know it was very late,
+             because before I was very confused that which language or programming is best for me😵‍💫😵.‍</p>
+        </div>
+
+         </div>
+     <div class="skill-row">
+     <img class="gardening" src="images/gardening.png" alt="">
+     <h3 class="h3b"> Gardening</h3>
+     <p>I just love gardening😊and I also have a mini-garden at home And yes I'm belong to the farmers family.</p>
+     </div>
+     </div>
+
+      <hr>
+     <div class="contact-me">
+     <h2 class="h2c">Get In Touch</h2>
+<div class="ccm">
+  <h3 style="margin-top:0px;margin-left:140px;">And yes I love travelling.</h3>
+  <p>If you also love travelling? Than lets talk about those amazing places .</p>
+  <a class="btn" href="mailto:gurpreetdhariwal292@gmail.com">CONTACT ME</a>
+  </div>
+</div>
+<div class="bottom-container">
+  <a class="footer-link" href="https://www.linkedin.com/in/gurpreet-dhariwal-2b7a48231/">LinkedIn</a>
+  <a class="footer-link" href="https://twitter.com/GurpreetDhariw5">Twitter</a>
+  <a class="footer-link" href="https://4bhainskitaang.github.io/bhainskitaang-CV/">Website</a>
+  <p>2023© Gurpreet Singh @ MAIT GGSIPU .</p>
+</div>
+  </body>
+</html>
